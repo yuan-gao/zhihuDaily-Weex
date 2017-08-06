@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]

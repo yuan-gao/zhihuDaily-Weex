@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_e254893a6c0c44d2b47b0ab8c5ec501569eb9fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/android/weexplugin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4380920339da6432983f39c738858bc0aef8cf0e">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/android-weexplugin-unspecified_4d4b63bad3a1f1d4888528ac2fe0d04ccc33b106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_b75cc54bdc51a009565df90383cceda9e26e3a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_2b5ce06eaa528d7329a61d632adecc4db7ce4ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_8d1853c48dc8c79fa882225a715719a9e4031c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/jacocoagent_9bf1711cbfdee564c25325716e49d026b644dd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.10.0_6089a82f961663f46b3e7257ed4f59a3c6a49065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_a62f698268c03bf52617edb6aeff85c11e0e7296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_d406a8ff5d220aa36d86e7085bc79b2b1bfe09fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_3e83d55bacbc40383e58171c1b277a1e5b4dd03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_83d51773562f1b0cc3c0016eb21862a46ee77638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_c2b25799f2667137a65aa50f675cfd24a61254f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.10.0_aa7580770de2f96f38ffb13b8af4f93f4ec6c597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_e7843fbea0c8b7e895ac01727fae511d23ca6f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/android/appframework/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8c7f2148be85c4e35f1ff0080ec62cbefaafdac">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/android-appframework-unspecified_e470016887a2c4a10cc8e37ec3e8ada48b6266fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_695075268c3228f3347d273349fbf84cedb8ec22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_4946827e4c18659881a60fe821a7021aeff19852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c661d2cd2b4e0f3236d37b1e2b84b2b3a0a19f5">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.10.0_96e7b7ae09bc380cc5b0a6d1aa8e4e00f128387d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.10.0_3350ebfb52ca5b53dbe38d7709d2dcb1d69c1a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.10.0_008d743af3c161a19f10fcfe1ef05b08d902b2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.10.0_9b692c079ae5da84ba3406038e6e7e6b810a6e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_29d54656329c9d4b6d6b3b4040f4c168823613c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_e37609d9f62b1a55e8a0e57fb5b8f7fbddd9ff60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_5f7f9fe5331815ee00dea155f06714ff4f0ba215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_8009cbca5a7724602ae2506743b3aa9e776c53c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_a4c875e611e39656cd5369df030b2349d16ab5a2.jar" />
+    </item>
+
+</items>

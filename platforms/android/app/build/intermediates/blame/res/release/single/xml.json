@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/res/merged/release/xml/config.xml",
+        "source": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/exploded-aar/android/weexplugin/unspecified/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/build/intermediates/res/merged/release/xml/app_config.xml",
+        "source": "/Users/gaoyuan/web/Weex/ZhihuDaily/platforms/android/app/src/main/res/xml/app_config.xml"
+    }
+]
