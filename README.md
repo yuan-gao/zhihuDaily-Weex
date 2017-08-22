@@ -58,7 +58,7 @@ weexpack 所提供的命令大致可分为三组，分别是：
 ![android.gif](http://upload-images.jianshu.io/upload_images/959455-f575ff4bf9773b6b.gif?imageMogr2/auto-orient/strip)
 
 只写了一个雏形，本来准备把详情页面也写一下的，发现详情接口的网页数据是 json 格式返回的 HTML 源码，而 weex 封装的 [web](http://weex-project.io/cn/references/components/web.html) 组件并没有暴露Native的`loadHTML`API，就没写了。
-源码：https://github.com/yuan-gao/zhihuDaily
+源码：https://github.com/yuan-gao/zhihuDaily-Weex
 ```
 //安装依赖
 npm installl
